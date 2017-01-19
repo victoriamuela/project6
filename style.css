@@ -3,18 +3,22 @@ h1{
 	text-align: center;
 	}
 
-h2{text-align:center;
-text-decoration:underline;
-}
+h2{
+	text-align: center;
+	text-decoration: underline;
+	}
 
-p{color:green;
-font-family:tahoma;
-}
+p{
+	color: green;
+	font-family: tahoma;
+	}
 
-ul{font-style:italic;
-}
+ul{
+	font-style: italic;
+	}
 
-ol{font-weight:bold;
-font-size:1.6em;
-}
+ol{
+	font-weight: bold;
+	font-size: 1.6em;
+	}
 
